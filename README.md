@@ -6,3 +6,5 @@ This repository contains modding digests for Europa Universalis V updates includ
 ## Existing Digests
 - [1.0.0](1.0.0/discord.md)
 - [1.0.2](1.0.2/discord.md)
+- [1.0.3](1.0.3/discord.md)
+- [1.0.4](1.0.4/discord.md)
