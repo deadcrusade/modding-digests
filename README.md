@@ -13,3 +13,4 @@ This repository contains modding digests for Europa Universalis V updates includ
 - [1.0.7](1.0.7/discord.md)
 - [1.0.8](1.0.8/discord.md)
 - [1.0.9](1.0.9/discord.md)
+- [1.0.10](1.0.10/discord.md)
